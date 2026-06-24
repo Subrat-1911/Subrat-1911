@@ -1,25 +1,7 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
-<br />
 
-<div align="center">
-  <!-- Apne asli profile links in href="" ke andar daal dena -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
-  <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" /></a>
-  <a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
-</div>
 
-<br />
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Subrat-1911.Subrat-1911&" alt="Profile Views" />
-</div>
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ### 👩‍💻 About Me
 
@@ -82,16 +64,7 @@ I'm **Subrat** from **India**.
 
 
 
-<div align ="center">
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subrat-1911/Subrat-1911/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subrat-1911/Subrat-1911/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Subrat-1911/Subrat-1911/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Subrat-1911.Subrat-1911&" alt="Profile Views" />
 </div>
-
-
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Subrat-1911/Subrat-1911/snake-output/snake.svg" alt="Snake animation" />
 
