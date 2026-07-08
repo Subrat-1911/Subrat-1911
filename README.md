@@ -56,7 +56,7 @@ I'm **Subrat** from **India**.
 </div>
 
 ###
-### 🔥 My Stats :
+### My Stats :
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Subrat-1911&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
